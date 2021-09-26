@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Account from '../Account/Account';
 import Employee from '../Employee/Employee';
+import './Company.css';
 
 const Company = () => {
     const [employees, setEmployees] = useState([]);
@@ -18,7 +19,7 @@ const Company = () => {
     return (
         <div className="col-lg-12 d-flex">
             <div className="col-lg-9 border-dark border-end bg-secondary">
-                <div className="col-lg-3">
+                <div className="show-grid">
                     {
                         employees.map(employee => <Employee
                             key={employee.id}

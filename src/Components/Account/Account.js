@@ -14,7 +14,7 @@ const Account = (props) => {
             <h3 className="my-3 text-center fst-italic fw-bold">Accounts Info</h3>
             <h6 className="my-3 text-center">Employee Selected: {salary.length}</h6>
             <h4 className="my-3 text-center">Total Income: ${total.toFixed(2)}</h4>
-            <h6 className="my-3">All Selected names: {selectedName}</h6>
+            <h6 className="my-2 fw-lighter text-center">Selected names: {selectedName}</h6>
             {
                 props.salary.map(people => selectedName = people.name)
             }

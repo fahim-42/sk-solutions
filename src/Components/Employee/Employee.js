@@ -3,7 +3,7 @@ import React from 'react';
 const Employee = (props) => {
     const { name, image, email, age, designation, salary } = props.employee;
     return (
-        <div className="col-lg-12 card shadow-lg m-3 rounded-3" style={{ width: "18rem" }}>
+        <div className="card shadow-lg m-4 rounded-3" style={{ width: "18rem" }}>
             <img className="card-img-top rounded-circle m-auto mt-3" style={{ width: "200px", height: "200px" }} src={image} alt="" />
             <div className="card-body text-center">
                 <h4 className="card-title fw-bold">{name}</h4>
