@@ -3,15 +3,15 @@ import React from 'react';
 const Employee = (props) => {
     const { name, image, email, age, designation, salary } = props.employee;
     return (
-        <div className="col-lg-4 card bg-info m-2" style={{ width: "18rem" }}>
-            <img className="card-img-top rounded-circle m-auto my-3" style={{ width: "200px", height: "200px"}} src={image} alt="" />
+        <div className="col-lg-12 card shadow-lg m-3 rounded-3" style={{ width: "18rem" }}>
+            <img className="card-img-top rounded-circle m-auto mt-3" style={{ width: "200px", height: "200px" }} src={image} alt="" />
             <div className="card-body text-center">
-                <h4 className="card-title m-2 fw-bold">{name}</h4>
-                <p className="m-2">Designation: {designation}</p>
-                <p className="m-2">Email: {email}</p>
-                <h6 className=" m-2">Age: {age}</h6>
-                <h5 className="m-2">Salary: ${salary}</h5>
-                <a href="/home" className="btn btn-primary my-3">Add to Account</a>
+                <h4 className="card-title fw-bold">{name}</h4>
+                <p className="">Designation: {designation}</p>
+                <p className="">Email: {email}</p>
+                <h6 className=" ">Age: {age}</h6>
+                <h5 className="">Salary: ${salary}</h5>
+                <button onClick={() => props.handleAccountButton(props.employee)} className="btn btn-dark text-white-50 mt-2"><i className="fas fa-credit-card"></i> Add to Account</button>
             </div>
         </div>
     );

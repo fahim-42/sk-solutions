@@ -3,108 +3,108 @@
         "id": 1,
         "name": "Ambros Firmin",
         "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVvcGxlJTIwcG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "email": "afirmin0@deliciousdays.com",
-        "age": "54",
+        "email": "afirmin0@gooddays.com",
+        "age": 54,
         "designation": "CEO",
-        "salary": "850"
+        "salary": 850
     },
     {
         "id": 2,
         "name": "Krissie Gwillym",
         "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlJTIwcG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "kgwillym1@people.com.cn",
-        "age": "26",
+        "age": 26,
         "designation": "M.D.",
-        "salary": "760"
+        "salary": 760
     },
     {
         "id": 3,
         "name": "Dodi Dalman",
         "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "email": "ddalman2@slashdot.org",
-        "age": "28",
+        "age": 28,
         "designation": "H.R.M.",
-        "salary": "820"
+        "salary": 820
     },
     {
         "id": 4,
         "name": "Maurine Borrell",
         "image": "https://images.unsplash.com/photo-1603384699007-50799748fc45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "email": "mborrell3@4shared.com",
-        "age": "22",
+        "age": 22,
         "designation": "Senior Developer",
-        "salary": "930"
+        "salary": 930
     },
     {
         "id": 5,
         "name": "Augustine Ortega",
         "image": "https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlJTIwcG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "aortega4@mail.ru",
-        "age": "24",
+        "age": 24,
         "designation": "Team Leader",
-        "salary": "780"
+        "salary": 780
     },
     {
         "id": 6,
         "name": "Noach Lanfere",
         "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlJTIwcG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "nlanfere5@taobao.com",
-        "age": "22",
+        "age": 22,
         "designation": "Senior Programmer",
-        "salary": "950"
+        "salary": 950
     },
     {
         "id": 7,
         "name": "Killie Ledwidge",
         "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cmFuZG9tJTIwcGVvcGxlJTIwcG90cmFpdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "email": "kledwidge6@instagram.com",
-        "age": "20",
+        "email": "kledwidge6@insta.com",
+        "age": 20,
         "designation": "Intern",
-        "salary": "910"
+        "salary": 910
     },
     {
         "id": 8,
         "name": "Emily Sueter",
         "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHJhbmRvbSUyMHBlb3BsZSUyMHBvdHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "esueter7@blogger.com",
-        "age": "31",
+        "age": 31,
         "designation": "Senior Developer",
-        "salary": "1030"
+        "salary": 1030
     },
     {
         "id": 9,
         "name": "Evie Niesing",
         "image": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fHJhbmRvbSUyMHBlb3BsZSUyMHBvdHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "eniesing8@cam.ac.uk",
-        "age": "27",
+        "age": 27,
         "designation": "Senior Programmer",
-        "salary": "940"
+        "salary": 940
     },
     {
         "id": 10,
         "name": "Ahmad Wordsworth",
         "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHJhbmRvbSUyMHBlb3BsZSUyMHBvdHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "awordsworth9@gmpg.org",
-        "age": "19",
+        "age": 19,
         "designation": "receptionist",
-        "salary": "870"
+        "salary": 870
     },
     {
         "id": 11,
         "name": "Redd Abrahamsson",
         "image": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHJhbmRvbSUyMHBlb3BsZSUyMHBvdHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "email": "rabrahamssona@bigcartel.com",
-        "age": "21",
+        "email": "redd-abram@cartel.com",
+        "age": 21,
         "designation": "Junior Developer",
-        "salary": "910"
+        "salary": 910
     },
     {
         "id": 12,
         "name": "Maiga Greenland",
         "image": "https://images.unsplash.com/photo-1514846326710-096e4a8035e0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHJhbmRvbSUyMHBlb3BsZSUyMHBvdHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "email": "mgreenlandb@house.gov",
-        "age": "24",
+        "age": 24,
         "designation": "Intern",
-        "salary": "810"
+        "salary": 810
     }
 ]
